@@ -1,11 +1,11 @@
 name: la_interactions_quarto
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.12
-  - jupyterlab 
-  - pandas=2.2 
-  - matplotlib
-  - xlrd
-  - jupyter-cache 
+  - python=3.14
+  - jupyterlab=4.6
+  - pandas=3.1
+  - scipy=1.18 
+  - matplotlib=3.11
+  - xlrd=2.0
+  - jupyter-cache=1.0
