@@ -81,7 +81,7 @@ $$
 
 ### Task A
 
-Using measurements from an eddy-covariance sensor given in the Excel file `pract1_eddy_cov_data.xls`, calculate surface sensible ($H$) and latent heat ($λE$) fluxes. Note that latent and sensible heat fluxes are related to the eddy-covariance fluxes by the following relationship (see Theory L3.4):
+Using measurements from an eddy-covariance sensor given in the Excel file [`pract1_eddy_cov_data.xls`](https://ufora.ugent.be/d2l/le/content/1401946/viewContent/3492815/View) on Ufora, calculate surface sensible ($H$) and latent heat ($λE$) fluxes. Note that latent and sensible heat fluxes are related to the eddy-covariance fluxes by the following relationship (see Theory L3.4):
 
 $$
 \begin{split}
