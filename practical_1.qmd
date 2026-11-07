@@ -98,9 +98,17 @@ Use a programming language of your choice to perform the analysis.
 
 <!-- For next year, let the students derive this formula of the covariance themselves -->
 
-## Description of the changes in large-scale atmospheric forcing
+## Installing CLASS
 
-With the introductory analysis performed, it is now time to carry out sensitivity experiments with CLASS. For more information on how to use the graphical user interface of CLASS, see [`CLASS_model_guide.pdf`](https://ufora.ugent.be/d2l/le/content/1035474/viewContent/2536935/View). The model parameters are set to be representative of a site in the mid-latitude (approximately 50°N).
+With the introductory analysis performed, it is now time to carry out sensitivity experiments with CLASS. Start by installing [CLASS](https://classmodel.github.io/) by going to [https://github.com/classmodel/modelgui/releases/tag/v1.0.2](https://github.com/classmodel/modelgui/releases/tag/v1.0.2):
+
+- **Windows**: download `Windows.zip` and unzip it. Move the `CLASS_20150315` folder to a location of your choice. Inside of the folder, you find the executable `CLASS.exe`, which you can double-click to start the program. If the CLASS window appears very small or the fonts look too large (a display scaling issue), download and use `Windows_scaling_fix.zip` from the same page instead.
+- **macOS**: download `CLASS_MacOS_10.13_10.14_10.15.dmg` and double-click it. Move `CLASS.app` to a location of your choice (e.g. `Applications`) and double-click it to start the program. If macOS warns about an unidentified developer, right-click `CLASS.app`, choose `Open` and confirm with `Open` (only needed once).
+
+It is important to remember where on your computer you put `CLASS.exe`/`CLASS.app`, as you will need to navigate to this location when starting the program.
+For more information on how to use the graphical user interface of CLASS, see [`CLASS_model_guide.pdf`](https://ufora.ugent.be/d2l/le/content/1035474/viewContent/2536935/View). The model parameters are set to be representative of a site in the mid-latitude (approximately 50°N).
+
+## Description of the changes in large-scale atmospheric forcing
 
 As mentioned in the introductory slides, the goal of this practical is to explore what effect the changing synoptic situation over Central Europe, from cyclonic ($C$, low pressure) to anti-cyclonic ($AC$, high pressure) – typical for a drought onset conditions - has on the evolution of the ABL state during the day, primarily its (potential) temperature ($\theta$) and height ($h$).
 
