@@ -142,7 +142,7 @@ When writing down your answers to the problems, please use the equation numbers 
 
 Start from investigating the influence of a stronger morning contrast between the cooler ABL and warmer free troposphere, i.e. larger morning inversion ($\Delta \theta(t_0) = \Delta \theta_0$). Note that there is a physical explanation for this larger morning inversion: in anti-cyclonic conditions, clear sky nights typically occur, which results in more cooling (via longwave outgoing radiation) during the night.
 
-Open the interactive window of CLASS model with its initial default set up. Under tab ´Basic´ make sure that only the mixed-layer module is activated; the diurnal cycle of surface fluxes is off, and all the moisture parameters (i.e. $q$, $\Delta q$, $\gamma_q$, $q_{adv}$ and $(\overline{w'q'})_s$) are set to zero for now. See the screen-shot in @fig-control_exp. This setup is your control experiment.
+Open the interactive window of CLASS model with its initial default set up. Under tab `Basic` make sure that only the mixed-layer module is activated; the diurnal cycle of surface fluxes is off, and all the moisture parameters (i.e. $q$, $\Delta q$, $\gamma_q$, $q_{adv}$ and $(\overline{w'q'})_s$) are set to zero for now. See the screen-shot in @fig-control_exp. This setup is your control experiment.
 
 ![Control setup of the initial ABL state with activated mixed-layer module, assumption of a dry atmosphere, and constant surface heat flux during the day (i.e. no diurnal cycle)](figures/control_experiment.png){#fig-control_exp}
 
